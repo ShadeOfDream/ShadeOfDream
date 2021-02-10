@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 
 
 ![](https://komarev.com/ghpvc/?username=ShadeOfDream&style=flat&color=blueviolet)
+<img src="https://github-profile-trophy.vercel.app/?username=ShadeOfDream&row=2&column=3&theme=flat&no-frame=true&margin-w=30" />
+
 
 <!-- -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadeOfDream&show_icons=true&theme=buefy) 
-<div class="col-2">
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadeOfDream&show_icons=true&theme=buefy)</br>
-<img src="https://github-profile-trophy.vercel.app/?username=ShadeOfDream&row=2&column=3&theme=flat&no-frame=true&margin-w=30" />
-</div>
+
 
 
 
