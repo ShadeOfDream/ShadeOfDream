@@ -1,4 +1,4 @@
-### Hello World :earth_asia: :computer:
+### Hello World :earth_asia: :computer: </br></br>   ![](https://komarev.com/ghpvc/?username=ShadeOfDream&style=flat&color=blueviolet)
 
 <!--
 **ShadeOfDream/ShadeOfDream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 |---|------------------|
 |![Picture](https://images.unsplash.com/photo-1525316885-69d120cf430b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60) | Components React components are small, reusable pieces of code that return a React element to be rendered to the page. <a href="https://reactjs.org/docs/glossary.html">_ReactJS Glossary_</a> |   
 
-![](https://komarev.com/ghpvc/?username=ShadeOfDream&style=flat&color=blueviolet)
 
 
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadeOfDream&show_icons=true&theme=buefy)-->
