@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadeOfDream&show_icons=true&theme=buefy)
 <div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=ShadeOfDream&row=6&column=1&theme=flat&no-frame=true&margin-w=30" />
+   <img src="https://github-profile-trophy.vercel.app/?username=ShadeOfDream&row=2&column=3&theme=flat&no-frame=true&margin-w=30" />
 </div>
 
 
