@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 > " A journey of a thousand miles begins with a single step."
-
+| | |
 | --- | --- |
 | ![Picture](https://images.unsplash.com/photo-1525316885-69d120cf430b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60) | Glossary |
 
