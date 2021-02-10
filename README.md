@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 
 ![profile-trophy](https://github-profile-trophy.vercel.app/?username=ShadeOfDream&row=2&column=3&theme=flat&no-frame=true&margin-w=30")
 
-| `GitHub stats` | `Top Languages Card` |
+| `GitHub stats` | `Top Languages Card` | `profile-trophy` |
 | --- | --- |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadeOfDream&show_icons=true&theme=buefy)| ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadeOfDream&show_icons=true&theme=buefy) |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadeOfDream&show_icons=true&theme=buefy)| ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadeOfDream&show_icons=true&theme=buefy) | ![profile-trophy](https://github-profile-trophy.vercel.app/?username=ShadeOfDream&row=2&column=3&theme=flat&no-frame=true&margin-w=30")|
 
 
 
