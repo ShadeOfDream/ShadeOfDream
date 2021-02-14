@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 2--->
 | > " A journey of a thousand miles begins with a single step." | `Glossary` |
 |---|------------------|
-|![Picture](https://images.unsplash.com/photo-1525316885-69d120cf430b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60) | **props** <br/><br/> Props are inputs to a React component. They are data passed down from a parent component to a child component. <br/>Remember that props are readonly.<br/>  <br/></br> <a href="https://reactjs.org/docs/glossary.html">_ReactJS Glossary_</a> |   
+|![Picture](https://images.unsplash.com/photo-1525316885-69d120cf430b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60) | **props** ❄ <br/><br/> Props are inputs to a React component.</br> They are data passed down from a parent</br> component to a child component. <br/>Remember that props are readonly.</br> <a href="https://reactjs.org/docs/glossary.html">_ReactJS Glossary_</a> |   
 
 
 
