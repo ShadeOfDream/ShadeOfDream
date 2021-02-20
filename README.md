@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 2-**props** ❄ <br/><br/> Props are inputs to a React component.</br> They are data passed down from a parent</br> component to a child component. <br/>Remember that props are readonly.</br></br> <a href="https://reactjs.org/docs/glossary.html">_ReactJS Glossary_</a>-->
 | > " A journey of a thousand miles begins with a single step." | `Glossary` |
 |---|------------------|
-|![Picture](https://images.unsplash.com/photo-1525316885-69d120cf430b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60) | **state** 🛴 <br/>
-A component needs state when some data</br> associated with it changes over time. </br>For example, a Checkbox component might need</br> isChecked in its state,</br> and a NewsFeed component might want to keep track of</br> fetchedPosts in its state.</br>The most important difference between state and props</br> is that props are passed from a parent component,</br> but state is managed by the component itself.</br> A component cannot change its props,</br> but it can change its state. </br></br> <a href="https://reactjs.org/docs/glossary.html">_ReactJS Glossary_</a> |   
+|![Picture](https://images.unsplash.com/photo-1525316885-69d120cf430b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60) |**state** 🛴 <br/><br/> A component needs state when some data</br> associated with it changes over time. </br>For example, a Checkbox component might need</br> isChecked in its state, and a NewsFeed component</br> might want to keep track of fetchedPosts in its state.</br>The most important difference between state and props</br> is that props are passed from a parent component,</br> but state is managed by the component itself.</br> A component cannot change its props,</br> but it can change its state. </br></br> <a href="https://reactjs.org/docs/glossary.html">_ReactJS Glossary_</a> |   
 
 
 
