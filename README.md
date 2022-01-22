@@ -40,8 +40,7 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShadeOfDream&theme=tokyonight_duo)](https://git.io/streak-stats)
 
-
-
+![snake gif](https://github.com/ShadeOfDream/ShadeOfDream/blob/output/github-contribution-grid-snake.gif)
 
 
 
